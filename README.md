@@ -22,7 +22,7 @@ docker-compose exec app npm i
 
 2. Inicie o servidor
 ```sh
-docker-compose exec app npm run server
+docker-compose exec app npm start
 ```
 
 3. Acesse ``localhost:3000``
