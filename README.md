@@ -1,6 +1,6 @@
-# ead_js_alura_typescript1
+# ead_js_alura_typescript
 
-> Projeto referente a [este](https://cursos.alura.com.br/course/typescript-evoluindo-javascript) curso.
+> Projeto referente a [este](https://cursos.alura.com.br/course/typescript-evoluindo-javascript), [este](https://cursos.alura.com.br/course/typescript-avancando-linguagem) e [este](https://cursos.alura.com.br/course/typescript-tecnicas-boas-praticas) cursos.
 
 1. Crie o ambiente
 ```sh
